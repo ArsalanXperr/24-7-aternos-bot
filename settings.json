@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "edgeofmineblox.joinmc.world",
-    "port": 37245,
+    "ip": "EdgeOfMineblox.aternos.me",
+    "port": 44448,
     "version": "1.20.1",
     "try-creative": false
   },
